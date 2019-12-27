@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7da74b7b-b4b3-4cbf-96c5-f8c511d7f7cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Main.ch" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VXXU4hycxFSJ7TBvuAvbrflUMg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7da74b7b-b4b3-4cbf-96c5-f8c511d7f7cb" name="Default Changelist" comment="" />
+      <created>1577400425642</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577400425642</updated>
+      <workItem from="1577400428461" duration="226000" />
+      <workItem from="1577400671688" duration="874000" />
+      <workItem from="1577401565159" duration="46000" />
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="704" y="337" width="504" height="385" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577400505553">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="704" y="337" width="504" height="385" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1058@0.0.1920.1058" timestamp="1577400505553" />
+    <state x="739" y="274" width="426" height="508" key="FileChooserDialogImpl" timestamp="1577401598425">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="739" y="274" width="426" height="508" key="FileChooserDialogImpl/0.0.1920.1058@0.0.1920.1058" timestamp="1577401598425" />
+    <state x="555" y="266" width="802" height="527" key="Rider.ProjectTemplateDialog.Size" timestamp="1577401543572">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="555" y="266" width="802" height="527" key="Rider.ProjectTemplateDialog.Size/0.0.1920.1058@0.0.1920.1058" timestamp="1577401543572" />
+    <state x="464" y="166" key="SettingsEditor" timestamp="1577400651112">
+      <screen x="0" y="0" width="1920" height="1058" />
+    </state>
+    <state x="464" y="166" key="SettingsEditor/0.0.1920.1058@0.0.1920.1058" timestamp="1577400651112" />
+  </component>
+</project>

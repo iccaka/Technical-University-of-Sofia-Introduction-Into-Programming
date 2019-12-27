@@ -1,0 +1,5 @@
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/OddEven/OddEven/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/OddEven/OddEven/bin/Debug/OddEven.exe.mdb
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/OddEven/OddEven/bin/Debug/OddEven.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/OddEven/OddEven/obj/Debug/OddEven.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/OddEven/OddEven/obj/Debug/OddEven.exe.mdb
