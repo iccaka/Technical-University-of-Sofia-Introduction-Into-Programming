@@ -1,0 +1,5 @@
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/SquareMatrix/SquareMatrix/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/SquareMatrix/SquareMatrix/bin/Debug/SquareMatrix.pdb
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/SquareMatrix/SquareMatrix/bin/Debug/SquareMatrix.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/SquareMatrix/SquareMatrix/obj/Debug/SquareMatrix.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/SquareMatrix/SquareMatrix/obj/Debug/SquareMatrix.pdb
