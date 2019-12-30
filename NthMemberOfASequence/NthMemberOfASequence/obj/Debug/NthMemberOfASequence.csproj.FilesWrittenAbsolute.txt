@@ -1,0 +1,5 @@
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/NthMemberOfASequence/NthMemberOfASequence/obj/Debug/.NETFramework,Version=v4.6.1.AssemblyAttribute.cs
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/NthMemberOfASequence/NthMemberOfASequence/bin/Debug/NthMemberOfASequence.pdb
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/NthMemberOfASequence/NthMemberOfASequence/bin/Debug/NthMemberOfASequence.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/NthMemberOfASequence/NthMemberOfASequence/obj/Debug/NthMemberOfASequence.exe
+/home/iccaka/Documents/programmingRelatedPrograms/riderProjects/MoodleProblemsPlayground/NthMemberOfASequence/NthMemberOfASequence/obj/Debug/NthMemberOfASequence.pdb
